@@ -1,2 +1,3 @@
 # proj68
-sus
+espero ter escolhido os negocios certo :/
+
