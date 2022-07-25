@@ -5,8 +5,8 @@ export default class App extends Component {
   render() {
 
     //return <BottomTabNavigator>;
-    <BottomTabNavigator/>
-    //return <BottomTabNavigator />;
+    //<BottomTabNavigator/>
+    return <BottomTabNavigator />;
     //return <BottomTabNavigator <BottomTabNavigator> />;
 
   }
